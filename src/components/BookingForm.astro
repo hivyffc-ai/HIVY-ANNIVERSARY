@@ -320,7 +320,7 @@ const cardClasses =
       const occasionLabel = momentLabels[data.occasion] || data.occasion;
       const timeLabel = timeLabels[data.preferredTime] || data.preferredTime;
 
-      let message = `*New Booking Inquiry - Friends Factory Cafe*\n\n`;
+      let message = `*New Booking Inquiry - ${siteConfig.name}*\n\n`;
       message += `*Name:* ${data.name}\n`;
       message += `*Phone:* ${data.phone}\n`;
       message += `*City:* ${data.city}\n`;
