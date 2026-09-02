@@ -26,7 +26,7 @@
   --popover-foreground: oklch(0.2 0.02 35);
 
   /* Primary - Warm Amber */
-  --primary: #722F37;
+  --primary: #991B1B;
   --primary-foreground: oklch(0.99 0.002 0);
 
   /* Secondary - Warm Orange */
@@ -77,7 +77,7 @@
   --card-foreground: oklch(0.97 0.003 0);
   --popover: oklch(0.18 0.025 35);
   --popover-foreground: oklch(0.97 0.003 0);
-  --primary: #722F37;
+  --primary: #991B1B;
   --primary-foreground: oklch(0.15 0.02 35);
   --secondary: #B76E79;
   --secondary-foreground: oklch(0.97 0.003 0);

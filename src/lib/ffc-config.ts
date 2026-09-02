@@ -53,14 +53,14 @@ export const siteConfig = {
   city: "Surat",
   website: "https://anniversarydinnersurat.com",
   colors: {
-    primary: "#722F37", // Deep Burgundy/Wine
+    primary: "#991B1B", // Deep Burgundy/Wine
     secondary: "#B76E79", // Rose Gold
     accent: "#C9A050", // Champagne Gold
-    gradient: "from-rose-800 to-rose-600",
-    gradientHover: "from-rose-900 to-rose-700",
-    lightBg: "bg-rose-50",
-    darkBg: "bg-rose-900",
-    text: "text-rose-900"
+    gradient: "from-red-800 to-red-600",
+    gradientHover: "from-red-900 to-red-700",
+    lightBg: "bg-red-50",
+    darkBg: "bg-red-900",
+    text: "text-red-900"
   },
   socialLinks: {
     instagram: "https://www.instagram.com/hivy_anniversary/?hl=en",
