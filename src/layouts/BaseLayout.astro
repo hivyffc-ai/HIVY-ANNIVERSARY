@@ -228,7 +228,7 @@ const jsonLd = {
       })();
     </script>
   </head>
-  <body class="font-sans antialiased" data-whatsapp-number={siteConfig.whatsapp} data-site-city={siteConfig.city}>
+  <body class="font-sans antialiased" data-whatsapp-number={siteConfig.whatsapp} data-site-city={siteConfig.city} data-site-name={siteConfig.name}>
     <slot />
     <script defer src="/_vercel/insights/script.js"></script>
     <script define:vars={{ siteName: siteConfig.name, siteUrl: SITE_URL }} is:inline>
